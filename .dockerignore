@@ -1,6 +1,0 @@
-node_modules
-build
-.git
-.cache
-Dockerfile
-docker-compose.yml
